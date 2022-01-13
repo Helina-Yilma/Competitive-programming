@@ -5,4 +5,4 @@
 
 This repositiory contains all daily tasks I have tried to enter A2SV through the community path. 
 
-Joined on Jan 13, 20222.
+Joined on Jan 13, 2022.
